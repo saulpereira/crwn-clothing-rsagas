@@ -15,4 +15,4 @@ const CollectionsOverviewContainer = compose(
     WithSpinner
 )(CollectionsOverview);
 
-export default CollectionsOverview;
+export default CollectionsOverviewContainer;
